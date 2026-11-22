@@ -1,5 +1,8 @@
 # Backofficeniser
 
+![Status: planning](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
 Project repository.
 
 ## Status
